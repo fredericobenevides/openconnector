@@ -8,7 +8,7 @@ clear();
 
 console.log(
   chalk.yellow(
-    figlet.textSync("OpenConnect-cli", {
+    figlet.textSync("OpenConnector", {
       horizontalLayout: "full",
     })
   )
